@@ -13,3 +13,6 @@ fname="Jay"; // This is Possible
 //TypeError: Assignment to constant variable.
 console.log(fname);
 console.log(appName);
+
+// Use let for variables that may change.
+// Use const for variables that shouldn’t change.
